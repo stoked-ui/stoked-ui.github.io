@@ -1,5 +1,5 @@
 
-// uuid: Fri Aug 09 2024 01:40:55 GMT-0500 (Central Daylight Time)
+// uuid: Fri Aug 09 2024 04:28:44 GMT-0500 (Central Daylight Time)
 /* eslint-env serviceworker */
 // https://github.com/airbnb/javascript/issues/1632
 /* eslint-disable no-restricted-globals */
