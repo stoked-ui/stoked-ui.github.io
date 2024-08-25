@@ -1,0 +1,36 @@
+{
+  "../../node_modules/.pnpm/next@13.5.6_@babel+core@7.25.2_babel-plugin-macros@3.1.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/client/index.js -> ../pages/_app": {
+    "id": "../../node_modules/.pnpm/next@13.5.6_@babel+core@7.25.2_babel-plugin-macros@3.1.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/client/index.js -> ../pages/_app",
+    "files": [
+      "static/chunks/node_modules_pnpm_next_13_5_6__babel_core_7_25_2_babel-plugin-macros_3_1_0_react-dom_18_3_1_r-e797b7.js"
+    ]
+  },
+  "../../node_modules/.pnpm/next@13.5.6_@babel+core@7.25.2_babel-plugin-macros@3.1.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/client/index.js -> ../pages/_error": {
+    "id": "../../node_modules/.pnpm/next@13.5.6_@babel+core@7.25.2_babel-plugin-macros@3.1.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/client/index.js -> ../pages/_error",
+    "files": [
+      "static/chunks/node_modules_pnpm_next_13_5_6__babel_core_7_25_2_babel-plugin-macros_3_1_0_react-dom_18_3_1_r-e9440d.js"
+    ]
+  },
+  "../src/modules/components/AppFrame.js -> docs/src/modules/components/AppSearch": {
+    "id": "../src/modules/components/AppFrame.js -> docs/src/modules/components/AppSearch",
+    "files": []
+  },
+  "../src/modules/components/Demo.js -> ./DemoToolbar": {
+    "id": "../src/modules/components/Demo.js -> ./DemoToolbar",
+    "files": [
+      "static/chunks/src_modules_components_DemoToolbar_js.js"
+    ]
+  },
+  "../src/modules/components/Notifications.js -> ../../../notifications.json": {
+    "id": "../src/modules/components/Notifications.js -> ../../../notifications.json",
+    "files": [
+      "static/chunks/notifications_json.js"
+    ]
+  },
+  "../src/products.tsx -> react-swipeable-views": {
+    "id": "../src/products.tsx -> react-swipeable-views",
+    "files": [
+      "static/chunks/node_modules_pnpm_react-swipeable-views_0_14_0_react_18_3_1_node_modules_react-swipeable-view-f802a2.js"
+    ]
+  }
+}

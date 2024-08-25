@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/stoked-ui/docs/overview": "pages/stoked-ui/docs/overview.js",
+  "/editor/docs/overview": "pages/editor/docs/overview.js",
+  "/timeline/docs/overview": "pages/timeline/docs/overview.js",
+  "/timeline/docs/editor": "pages/timeline/docs/editor.js"
+}
